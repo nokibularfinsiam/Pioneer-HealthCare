@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AIUB\\Summer-24\\.NET\\DotNetFinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8139A49-A49A-42AF-881E-55F18A919793}|WebApplication1\\WebApplication1.csproj|d:\\aiub\\summer-24\\.net\\dotnetfinalproject\\webapplication1\\views\\assistant\\updateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8139A49-A49A-42AF-881E-55F18A919793}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\assistant\\updateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8139A49-A49A-42AF-881E-55F18A919793}|WebApplication1\\WebApplication1.csproj|d:\\aiub\\summer-24\\.net\\dotnetfinalproject\\webapplication1\\models\\assistantdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8139A49-A49A-42AF-881E-55F18A919793}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\assistantdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8139A49-A49A-42AF-881E-55F18A919793}|WebApplication1\\WebApplication1.csproj|d:\\aiub\\summer-24\\.net\\dotnetfinalproject\\webapplication1\\controllers\\assistantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8139A49-A49A-42AF-881E-55F18A919793}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\assistantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8139A49-A49A-42AF-881E-55F18A919793}|WebApplication1\\WebApplication1.csproj|d:\\aiub\\summer-24\\.net\\dotnetfinalproject\\webapplication1\\views\\assistant\\assistantprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8139A49-A49A-42AF-881E-55F18A919793}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\assistant\\assistantprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8139A49-A49A-42AF-881E-55F18A919793}|WebApplication1\\WebApplication1.csproj|D:\\AIUB\\Summer-24\\.NET\\DotNetFinalProject\\webapplication1\\content\\custom\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F8139A49-A49A-42AF-881E-55F18A919793}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\content\\custom\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8139A49-A49A-42AF-881E-55F18A919793}|WebApplication1\\WebApplication1.csproj|d:\\aiub\\summer-24\\.net\\dotnetfinalproject\\webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8139A49-A49A-42AF-881E-55F18A919793}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssistantDetails.cs",
+              "DocumentMoniker": "D:\\AIUB\\Summer-24\\.NET\\DotNetFinalProject\\WebApplication1\\Models\\AssistantDetails.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\AssistantDetails.cs",
+              "ToolTip": "D:\\AIUB\\Summer-24\\.NET\\DotNetFinalProject\\WebApplication1\\Models\\AssistantDetails.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\AssistantDetails.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:51:04.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateProfile.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\Summer-24\\.NET\\DotNetFinalProject\\WebApplication1\\Views\\Assistant\\UpdateProfile.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Assistant\\UpdateProfile.cshtml",
+              "ToolTip": "D:\\AIUB\\Summer-24\\.NET\\DotNetFinalProject\\WebApplication1\\Views\\Assistant\\UpdateProfile.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Assistant\\UpdateProfile.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T17:42:07.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssistantProfile.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\Summer-24\\.NET\\DotNetFinalProject\\WebApplication1\\Views\\Assistant\\AssistantProfile.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Assistant\\AssistantProfile.cshtml",
+              "ToolTip": "D:\\AIUB\\Summer-24\\.NET\\DotNetFinalProject\\WebApplication1\\Views\\Assistant\\AssistantProfile.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Assistant\\AssistantProfile.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAE4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T17:41:59.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssistantController.cs",
+              "DocumentMoniker": "D:\\AIUB\\Summer-24\\.NET\\DotNetFinalProject\\WebApplication1\\Controllers\\AssistantController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AssistantController.cs",
+              "ToolTip": "D:\\AIUB\\Summer-24\\.NET\\DotNetFinalProject\\WebApplication1\\Controllers\\AssistantController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AssistantController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAgwFkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:38:51.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\AIUB\\Summer-24\\.NET\\DotNetFinalProject\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\AIUB\\Summer-24\\.NET\\DotNetFinalProject\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwF4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:27:14.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "custom.css",
+              "DocumentMoniker": "D:\\AIUB\\Summer-24\\.NET\\DotNetFinalProject\\WebApplication1\\Content\\Custom\\custom.css",
+              "RelativeDocumentMoniker": "WebApplication1\\Content\\Custom\\custom.css",
+              "ToolTip": "D:\\AIUB\\Summer-24\\.NET\\DotNetFinalProject\\WebApplication1\\Content\\Custom\\custom.css",
+              "RelativeToolTip": "WebApplication1\\Content\\Custom\\custom.css",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAJ4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-29T04:30:47.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
